@@ -9,7 +9,7 @@
 *~
 *.fuse*
 *.rdb
-
+*.log
 # Folders
 _obj
 _test
